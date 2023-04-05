@@ -47,18 +47,18 @@ Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine($"Qual o seu estado civil?");
 Console.ResetColor();
 
-Console.WriteLine($"Digite a letra conforme a sua situacao:");
+Console.WriteLine($"Digite a letra conforme a sua situação:");
 
-Console.WriteLine($"S = solteiro");
-Console.WriteLine($"C = casado");
-Console.WriteLine($"V = viuvo");
-Console.WriteLine($"D = divorciado");
-string relacionamento =  Console.ReadLine().ToLower();
+Console.WriteLine($"s = solteiro");
+Console.WriteLine($"c = casado");
+Console.WriteLine($"v = viuvo");
+Console.WriteLine($"d = divorciado");
+char estadoCivil =  char.Parse(Console.ReadLine().ToLower());
 
-while (relacionamento != "s" || relacionamento != "c" || relacionamento != "v" || relacionamento != "d")
+while (estadoCivil != 's' && estadoCivil != 'c' && estadoCivil != 'v' && estadoCivil != 'd')
 {
-    Console.WriteLine($"Nenhua das letras digitadas é referente as opções disponíveis");
-    Console.ReadLine();
+    Console.WriteLine($"Digite novamente seu estado civil: ");
+    estadoCivil = char.Parse(Console.ReadLine());
 }
 
 
