@@ -1,0 +1,15 @@
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\bin\Debug\net7.0\ExerciciosEstruturaRepeticao.exe
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\bin\Debug\net7.0\ExerciciosEstruturaRepeticao.deps.json
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\bin\Debug\net7.0\ExerciciosEstruturaRepeticao.runtimeconfig.json
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\bin\Debug\net7.0\ExerciciosEstruturaRepeticao.dll
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\bin\Debug\net7.0\ExerciciosEstruturaRepeticao.pdb
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.dll
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\refint\ExerciciosEstruturaRepeticao.dll
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.pdb
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ExerciciosEstruturaRepeticao.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\ExerciciosEstruturaRepeticao\obj\Debug\net7.0\ref\ExerciciosEstruturaRepeticao.dll
