@@ -36,7 +36,7 @@ float salario = float.Parse(Console.ReadLine());
 while (salario == 0)
 {
     Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine($"Digite novamente seu salario:R$ ");
+    Console.Write($"Digite novamente seu salario:R$ ");
     Console.ResetColor();
     salario = float.Parse(Console.ReadLine());
 }
